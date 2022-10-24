@@ -1,3 +1,1 @@
-## Web Portofolio
-
- - new libraray use : https://github.com/bagusindrayana/scrollpage-js
+Jika kamu seorang yang Besar berikan Kontribusi jangan hanya interupsi kritis
